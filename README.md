@@ -92,4 +92,4 @@ Execute the program
 </html>
 ```
 # OUPUT
-![OUTPUT](SS.png)
+![OUTPUT](ss.png)
